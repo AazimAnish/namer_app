@@ -1,0 +1,1 @@
+ /home/aazimanish/Projects/namer_app/.dart_tool/flutter_build/cb0d38a5c45a57ac9a3c189b95336812/native_assets.yaml: 
