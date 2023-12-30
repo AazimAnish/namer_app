@@ -25,10 +25,10 @@ flutter run
 --------------
 
  **Home Page**
- ![Home Page]()
+ ![Home Page](https://github.com/AazimAnish/namer_app/assets/55126957/a3d21f52-3e18-4766-8b32-e246d7c38d20)
  
 **Favorites Page**
-![Favorite Page]()
+![Favorite Page](https://github.com/AazimAnish/namer_app/assets/55126957/dbfabdd4-512b-4a60-9275-04433d166e90)
 
 🛠 Features
 -----------
